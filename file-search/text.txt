@@ -1,0 +1,11 @@
+Hello world
+Go is an amazing programming language
+I love coding in Go
+This is a simple file search project
+Learning Go step by step
+Error handling is important in Go
+Sometimes we say hello again
+Golang is fast and efficient
+Practice makes perfect
+HELLO in uppercase should also match
+Searching files is fun
